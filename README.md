@@ -10,4 +10,4 @@ You can play with your friend(Player X vs Player O) on a 3x3 grid.
 - CSS
 - JS
 <br>
-LIVE DEMO:-
+LIVE DEMO:- https://sohamghadai42.github.io/TIC-TAC-TOE/
