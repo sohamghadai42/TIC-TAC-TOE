@@ -1,0 +1,24 @@
+@media screen and (min-width: 426px)and(max-width: 1440px){
+
+.msg-container{
+    height: 40vmin;
+    width: 380vmin;
+}
+.heading{
+    font-size: 650%;
+}
+.box{
+        height: 24vmin;
+        width: 24vmin;
+        font-size: 10vmin;
+    }
+#msg{
+    font-size: 200%;
+}
+#reset{
+    height: 5.5rem;
+    width: 15rem;
+    font-size: 1.75rem;
+    margin-top: 2rem;
+}
+}
