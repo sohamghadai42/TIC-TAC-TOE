@@ -9,4 +9,5 @@ You can play with your friend(Player X vs Player O) on a 3x3 grid.
 - HTML
 - CSS
 - JS
+<br>
 LIVE DEMO:-
